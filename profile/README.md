@@ -13,6 +13,7 @@
 > Platform berbasis AI yang membantu pencari kerja IT menemukan lowongan yang paling sesuai dengan CV mereka, dilengkapi analisis skill gap dan chatbot konsultasi karir.
 
 🌐 **Live Demo**: [https://itcareermatch.vercel.app/](https://itcareermatch.vercel.app/)
+📄 **Dokumentasi API**: [https://itcareermatch.up.railway.app/api-docs/](https://itcareermatch.up.railway.app/api-docs/)
 📊 **Dashboard**: [https://dashboard-itcareermatch.streamlit.app/](https://dashboard-itcareermatch.streamlit.app/)
 📁 **Repository**: [https://github.com/ITCareerMatch](https://github.com/ITCareerMatch)
 
@@ -69,10 +70,10 @@ ITCareerMatch/
 ```
 
 Dokumentasi detail tiap komponen tersedia di folder masing-masing:
-- [Frontend README](./Frontend-ITCareerMatch/README.md)
-- [Backend README](./Backend-ITCareerMatch/README.md)
-- [AI README](./AI-ITCareerMatch/README.md)
-- [Data Science README](./Data-Science-ITCareerMatch/README.md)
+- [Frontend README](https://github.com/ITCareerMatch/Frontend-ITCarrerMatch)
+- [Backend README](https://github.com/ITCareerMatch/Backend-ITCareerMatch)
+- [AI README](https://github.com/ITCareerMatch/AI-Engineer-ITCareerMatch)
+- [Data Science README](https://github.com/ITCareerMatch/Data-Science-ITCareerMatch)
 
 ---
 
@@ -207,14 +208,14 @@ streamlit run dashboard.py
 
 ## 👥 Tim Pengembang — CC26-PSU088
 
-| Nama | Learning Path | Peran |
-|------|--------------|-------|
-| Chardinal Martin Butarbutar | Data Science | Data pipeline, EDA, preprocessing |
-| Nadhia Della Puspita Sari | Data Science | Data pipeline, EDA, preprocessing |
-| Mutiara Angelita Muhaeni | Fullstack Web Dev | Frontend React, UI/UX |
-| Ahmad Sefriadi | Fullstack Web Dev | Backend Express, API, integrasi |
-| Muhammad Arifbillah Kamil | AI Engineer | SBERT model, FastAPI |
-| Ulil Noor Absor | AI Engineer | Chatbot service, TTS |
+| Foto | Nama | Learning Path | Peran |
+|------|------|--------------|-------|
+| <img src="https://raw.githubusercontent.com/ITCareerMatch/.github/main/Chardinal.png" width="50" style="aspect-ratio:1/1; object-fit:cover"> | [Chardinal Martin Butarbutar](https://github.com/chardinal) | Data Science | Data pipeline, EDA, preprocessing |
+| <img src="https://raw.githubusercontent.com/ITCareerMatch/.github/main/Della.jpg" width="50" style="aspect-ratio:1/1; object-fit:cover"> | [Nadhia Della Puspita Sari](https://github.com/NadhiaDella) | Data Science | Data pipeline, EDA, preprocessing |
+| <img src="https://raw.githubusercontent.com/ITCareerMatch/.github/main/Angel.jpg" width="50" style="aspect-ratio:1/1; object-fit:cover"> | [Mutiara Angelita Muhaeni](https://github.com/kaenjie) | Fullstack Dev | Frontend React, UI/UX |
+| <img src="https://raw.githubusercontent.com/ITCareerMatch/.github/main/Asep.jpg" width="50" style="aspect-ratio:1/1; object-fit:cover"> | [Ahmad Sefriadi](https://github.com/sefriadiahmad) | Fullstack Dev | Backend Express, API, integrasi |
+| <img src="https://raw.githubusercontent.com/ITCareerMatch/.github/main/Abil.webp" width="50" style="aspect-ratio:1/1; object-fit:cover"> | [Muhammad Arifbillah Kamil](https://github.com/ArifbillahKamil) | AI Engineer | SBERT model, FastAPI |
+| <img src="https://raw.githubusercontent.com/ITCareerMatch/.github/main/Ulil.jpeg" width="50" style="aspect-ratio:1/1; object-fit:cover"> | [Ulil Noor Absor](https://github.com/ulillearn) | AI Engineer | Chatbot service, TTS |
 
 ---
 
